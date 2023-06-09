@@ -57,7 +57,7 @@ Here is the folder structure of the project:
 4. Start the backend server:
     
     ```sh 
-    npm start
+    node server.js
     ```
 5. Navigate to the frontend folder and install the dependencies:
     
@@ -70,6 +70,11 @@ Here is the folder structure of the project:
     ```sh
     npm run serve
     ```
+ 7. Open a browser and access the application at 
+    - http://localhost:8080/items/new.
+    - http://localhost:8080/costumers/new.
+    - http://localhost:8080/sales/new.
+    
 ## 💞 Image and Video 
 
 
