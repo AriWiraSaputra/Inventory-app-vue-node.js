@@ -1,7 +1,7 @@
 # Simple Sales Inventory Application (Administrator)
 
 A simple Sales Inventory Application (Administrator) built using _**Vue.js**_ as the frontend and _**Node.js**_ as the backend.
-  <p align="left"> Node.js <img align="center" width="280" <img src="./icons/NodeJS-Dark.svg" width="48"></p>
+  <p align="left"><img align="center" width="280" <img src="https://github.com/AriWiraSaputra/Inventory-app-vue-node.js/blob/main/Img/nodejs.gif" width="48"></p>
   
 ## 🚩 Modules
 
