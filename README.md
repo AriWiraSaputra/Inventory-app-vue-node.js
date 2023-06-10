@@ -93,7 +93,7 @@ Here is the folder structure of the project:
    
   <p align="center">
     <img src="https://github.com/AriWiraSaputra/Inventory-app-vue-node.js/blob/main/Img/fromItem.png">
-    <img src="https://github.com/AriWiraSaputra/Inventory-app-vue-node.js/blob/main/Img/inventory-app%20-%20items.mp4">
+    <img src="https://github.com/AriWiraSaputra/Inventory-app-vue-node.js/blob/main/Img/inventory-gif.gif">   
   </p>
 
 
